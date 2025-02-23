@@ -64,5 +64,5 @@ A big thank you to [J_H](https://stackoverflow.com/users/8431111/j-h) on Stack O
 ## 📧 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-• Email: nico.janczuk@gmail.com
+• Email: nico.janczuk@gmail.com<br/>
 • GitHub: Dilubar
